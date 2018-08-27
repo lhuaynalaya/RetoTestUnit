@@ -1,0 +1,10 @@
+.ftpconfig
+.ftpignore
+id_rsa
+.DS_Store
+.git
+tests
+storage
+config
+bootstrap
+public
